@@ -1,5 +1,5 @@
 # Métodos_Python-
-<h3>Realizando exercicios utilizando métodos strings do python</h3>
+<h3>Realizando exercicios utilizando métodos strings do python- Aula 23/04/24</h3>
 
 - Capitalize: Converte o primeiro caracter para uppercase (caixa alta)
 - Count: Retorna o número de vezes em que um valor especifico ocorreu em uma string
